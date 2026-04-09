@@ -1,0 +1,20 @@
+# Environment variables — never commit!
+.env
+
+# Generated images
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
