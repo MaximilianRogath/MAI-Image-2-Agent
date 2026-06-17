@@ -1,4 +1,4 @@
-# MAI-Image-2 Agent
+# MAI-Image-2 Agent 
 
 A minimal example showing how to build an interactive image generation agent using the **Microsoft Agent Framework** and **MAI-Image-2** — a Microsoft text-to-image model available in Microsoft Foundry.
 
